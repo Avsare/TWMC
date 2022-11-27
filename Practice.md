@@ -7,13 +7,13 @@ it should be cracked with some useful steps, you have to follow the exact code a
 
 ### CODE ###
 
-Go on the link, given below &  right click on it.
+- Go to the link, given below &  right click on it.
 
 https://call-of-duty-modern-warfare.p.rapidapi.com/warzone-matches/{gamertag}/{platform}
 
-This will enter you into a UI for writing your Code.
+- This will enter you into a UI for writing your Code.
 
-Write the below code into the dialouge box.
+- Paste the below code into the dialouge box.
 
 ``` const axios = require("axios");
 
@@ -33,5 +33,8 @@ axios.request(options).then(function (response) {
 });
 ```
 ✌
+
+![COD](https://user-images.githubusercontent.com/119152061/204125193-e24bef34-9a16-4ce7-9e23-64ea2187e06d.jpg)
+
 
 	
