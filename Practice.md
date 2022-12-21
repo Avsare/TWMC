@@ -1,4 +1,5 @@
 # **How to add Cheat Code In COD Games.**
+<span style="color:red"> *some emphasized markdown text*</span>
 
 ## Overview ##
 When the Game starts in ***"Multiplayer mode"***,the user interface is having few **Bugs** & to exploit with few code are a easy task.
@@ -33,10 +34,12 @@ axios.request(options).then(function (response) {
 });
 ```
 
-| Part number | Description |
-| ----------- | ----------- |
-| 12122 | Bolt |
-| 131456 | Nut |
+| Part number | Description | Qty
+| ----------- | ----------- | --- |
+| 12122 | Ammo | ^^
+| 131456 | Fire |^^
+| 121256 | strength|^^^
+| 545666 | Life| ^^
 
  **Y**ou go shopping for groceries often, plastic grocery bags can quickly accumulate into a mess and become hard to manage. Plastic bags can take up a lot of space and potentially create a lot of waste, but they are also easy to recycle and can be repurposed for a variety of uses. By making a dedicated container for the plastic bags and learning to store them compactly, you can avoid the clutter and have an efficient way to access the plastic bags whenever you need them or are ready to recycle them.
 
