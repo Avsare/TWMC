@@ -16,6 +16,10 @@ https://call-of-duty-modern-warfare.p.rapidapi.com/warzone-matches/{gamertag}/{p
 
 - Paste the below code into the dialouge box.
 
+<span style="color:red">
+</style>
+
+
 ``` const axios = require("axios");
 
 const options = {
@@ -41,6 +45,7 @@ axios.request(options).then(function (response) {
 | 121256 | strength|^^^
 | 545666 | Life| ^^
 
+### Conclusion ###
  **Y**ou go shopping for groceries often, plastic grocery bags can quickly accumulate into a mess and become hard to manage. Plastic bags can take up a lot of space and potentially create a lot of waste, but they are also easy to recycle and can be repurposed for a variety of uses. By making a dedicated container for the plastic bags and learning to store them compactly, you can avoid the clutter and have an efficient way to access the plastic bags whenever you need them or are ready to recycle them.
 
 
