@@ -2,7 +2,7 @@
 <span style="color:red"> *some emphasized markdown text*</span>
 
 ## Overview ##
-When the Game starts in ***"Multiplayer mode"***,the user interface is having few **Bugs** & to exploit with few code are a easy task.
+When the Game starts in ***"Multiplayer mode"***,the user interface is having few **Bugs** & to exploit with few code is a easy task.
 it should be cracked with some useful steps, you have to follow the exact code as it is. 
  [^1]:Code will notwork if some strings are missing
 
