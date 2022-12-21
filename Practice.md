@@ -32,6 +32,15 @@ axios.request(options).then(function (response) {
 	console.error(error);
 });
 ```
+
+| Part number | Description |
+| ----------- | ----------- |
+| 12122 | Bolt |
+| 131456 | Nut |
+
+ **Y**ou go shopping for groceries often, plastic grocery bags can quickly accumulate into a mess and become hard to manage. Plastic bags can take up a lot of space and potentially create a lot of waste, but they are also easy to recycle and can be repurposed for a variety of uses. By making a dedicated container for the plastic bags and learning to store them compactly, you can avoid the clutter and have an efficient way to access the plastic bags whenever you need them or are ready to recycle them.
+
+
 ✌
 
 ![COD](https://user-images.githubusercontent.com/119152061/204125193-e24bef34-9a16-4ce7-9e23-64ea2187e06d.jpg)
